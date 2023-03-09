@@ -1,0 +1,42 @@
+.header {
+    background-color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.main {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    padding: 5px;
+    height: 500px;
+}
+
+.footer {
+    background-color: black;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+p {
+    color: rgb(255, 0, 0);
+
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+A {
+    color: red;
+}
+
+A :visited {
+    color: red;
+
+}
+
+A :active {
+    color: red;
+
+}
